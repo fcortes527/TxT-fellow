@@ -1,1 +1,31 @@
 # TxT-fellow
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My test page</title>
+  </head>
+  <body>
+    <h1>Feliciano Cortes</h1>
+    <img src="img/Profile Pic.jpg" width="30%" height="30%" alt="Feliciano's Image"/>
+    <h2>Hobbies:</h2>
+    <p>
+      I enjoy taking long runs around campus or pretty much anywhere that my legs can take me. I find running to be a very liberating experience,
+      and whenever I get a chance to escape, I take it. Although I enjoy running because of the solitary mental clarity it can provide, I think that
+      a run is best (and easiest) when accompanied by friends. I find motivation in my peers, and they in me; it's a good dynamic.
+    </p>
+    <p>
+      I love playing Super Smash Bros. My mains are Ness and Lucas (my characters of choice). I have played all of the iterations of the game up to date,
+      and I have to say that Ultimate is perhaps the best. I used to play on my own much more, but of course, the older you get, the busier you get, so now,
+      it's not as often that I get to pick up a game of smash. However, whenever I do, which is usually witha large group of friends, it is always a blast.
+    </p>
+    <p>
+      Another one of my favorite passtimes is actually cleaning, more specifically, organizing. I find satisfacction in making sure that my living,
+      work, as well as leisure environment are crisp and organized. There doesn't necessarly need to be order to everything, so long as all elements in
+      my imediate environment serve a purpose and don't suffocate the space.
+    </p>
+    <h2>Favorite Sites:</h2>
+    <a href=https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A>YouTube</a>
+    <a href=http://freerice.com/#/english-vocabulary/1757>Free Rice</a>
+    <a href=https://earth.google.com/web/@0,0,-24018.82718741a,36750128.22569847d,35y,0h,0t,0r/data=CgAoAQ>Google Earth</a>
+  </body>
+</html>
