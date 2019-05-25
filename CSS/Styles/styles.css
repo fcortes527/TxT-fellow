@@ -1,0 +1,39 @@
+
+h1{
+  text-align: center;
+}
+
+#background{
+  background-color: black;
+}
+
+#top{
+  width: 100%;
+  height: 500px;
+}
+
+#title{
+  color: lightblue;
+  position: relative;
+  z-index: 1;
+  font-size: 58px;
+}
+
+#video{
+  position: absolute;
+  z-index: -1;
+}
+
+#bottom{
+  width: 100%;
+  height: 500px;
+  font-size: 18px;
+}
+
+.lightgreen{
+  color: lightgreen;
+}
+
+.pink{
+  color: pink;
+}
