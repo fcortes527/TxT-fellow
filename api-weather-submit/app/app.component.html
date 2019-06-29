@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> 
+      API for Weather 
+    </title>
+    <link rel="stylesheet" type="text/css" src=".app.component.css">
+  </head>
+  <body>
+    <h1 id="title"> 
+      Weather API 
+    </h1>
+    <div id="left">
+      <h2 class="pink"> 
+        Los Angeles 
+      </h2>
+      <img id="img" width="500px" height="300px" src='../assets/la.webp'>
+      <p> The temperature is {{dataone.main.temp}}. </p>
+      <p> The humidity is {{dataone.main.humidity}}. </p>
+      <p> The pressure is {{dataone.main.pressure}}. </p>
+    </div>
+    <div id="right">
+      <h2 class="lightblue"> 
+        Houston 
+      </h2>
+      <img id="img" width="500px" height="300px" src='../assets/houston.jpg'>
+      <p> The temperature is {{datatwo.main.temp}}. </p>
+      <p> The humidity is {{datatwo.main.humidity}}. </p>
+      <p> The pressure is {{datatwo.main.pressure}}. </p>
+    </div>
+  </body>
+</html>
